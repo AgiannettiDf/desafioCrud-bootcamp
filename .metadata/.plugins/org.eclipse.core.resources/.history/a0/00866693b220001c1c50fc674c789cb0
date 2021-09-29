@@ -1,0 +1,5 @@
+package com.devsuperior.desafioCrud.entities;
+
+public class Client {
+
+}
